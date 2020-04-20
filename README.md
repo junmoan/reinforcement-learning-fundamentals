@@ -1,2 +1,2 @@
 # reinforcement-learning-fundamentals
-Cods based on Reinforcement Learning
+Codes based on Reinforcement Learning
